@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1909 3zad", "1909 3zad\1909 3zad.vcxproj", "{2768F1C1-AACD-45AB-914F-8788FAD2094A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3zad", "3zad\3zad.vcxproj", "{2ABF032E-7F93-41CE-9299-7D2EC8C4C40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2768F1C1-AACD-45AB-914F-8788FAD2094A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2768F1C1-AACD-45AB-914F-8788FAD2094A}.Debug|Win32.Build.0 = Debug|Win32
+		{2768F1C1-AACD-45AB-914F-8788FAD2094A}.Release|Win32.ActiveCfg = Release|Win32
+		{2768F1C1-AACD-45AB-914F-8788FAD2094A}.Release|Win32.Build.0 = Release|Win32
+		{2ABF032E-7F93-41CE-9299-7D2EC8C4C40E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2ABF032E-7F93-41CE-9299-7D2EC8C4C40E}.Debug|Win32.Build.0 = Debug|Win32
+		{2ABF032E-7F93-41CE-9299-7D2EC8C4C40E}.Release|Win32.ActiveCfg = Release|Win32
+		{2ABF032E-7F93-41CE-9299-7D2EC8C4C40E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

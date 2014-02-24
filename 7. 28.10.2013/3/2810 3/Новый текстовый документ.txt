@@ -1,0 +1,9 @@
+int hashFunction(TypeOfWord element)
+{
+	unsigned long int result = 0;
+	for (int i = 0; i != element.size(); i++)
+	{
+		result += element[i] * pow(101, i);
+	}
+	return result %= sizeOfHashTable;
+}

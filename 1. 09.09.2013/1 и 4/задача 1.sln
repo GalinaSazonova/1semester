@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "задача 1", "задача 1\задача 1.vcxproj", "{882A1D5D-92D8-407B-930D-EF678783DE42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "задача 4", "задача 4\задача 4.vcxproj", "{C2FA2FF6-4C15-4E1E-A7D7-928574337407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882A1D5D-92D8-407B-930D-EF678783DE42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{882A1D5D-92D8-407B-930D-EF678783DE42}.Debug|Win32.Build.0 = Debug|Win32
+		{882A1D5D-92D8-407B-930D-EF678783DE42}.Release|Win32.ActiveCfg = Release|Win32
+		{882A1D5D-92D8-407B-930D-EF678783DE42}.Release|Win32.Build.0 = Release|Win32
+		{C2FA2FF6-4C15-4E1E-A7D7-928574337407}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2FA2FF6-4C15-4E1E-A7D7-928574337407}.Debug|Win32.Build.0 = Debug|Win32
+		{C2FA2FF6-4C15-4E1E-A7D7-928574337407}.Release|Win32.ActiveCfg = Release|Win32
+		{C2FA2FF6-4C15-4E1E-A7D7-928574337407}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

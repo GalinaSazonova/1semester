@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1909", "1909\1909.vcxproj", "{79539008-18A0-4FD0-9694-B6A7CB6456DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad2", "zad2\zad2.vcxproj", "{8E2298E3-B071-4639-AAE7-9E16C72DFB4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79539008-18A0-4FD0-9694-B6A7CB6456DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79539008-18A0-4FD0-9694-B6A7CB6456DE}.Debug|Win32.Build.0 = Debug|Win32
+		{79539008-18A0-4FD0-9694-B6A7CB6456DE}.Release|Win32.ActiveCfg = Release|Win32
+		{79539008-18A0-4FD0-9694-B6A7CB6456DE}.Release|Win32.Build.0 = Release|Win32
+		{8E2298E3-B071-4639-AAE7-9E16C72DFB4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E2298E3-B071-4639-AAE7-9E16C72DFB4A}.Debug|Win32.Build.0 = Debug|Win32
+		{8E2298E3-B071-4639-AAE7-9E16C72DFB4A}.Release|Win32.ActiveCfg = Release|Win32
+		{8E2298E3-B071-4639-AAE7-9E16C72DFB4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
